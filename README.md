@@ -4,7 +4,8 @@ Snake made with Python Turtle graphics,
 
 UI:
 
-![image](https://user-images.githubusercontent.com/72921816/118122763-f72cbe80-b3fb-11eb-83f5-f1a8bf9fad08.png)
+![image](https://user-images.githubusercontent.com/72921816/118123227-9fdb1e00-b3fc-11eb-8dc3-10a746feb5ab.png)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Bugs yet to be fixed:
